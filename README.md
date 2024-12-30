@@ -5,7 +5,7 @@
 This is a repository regarding the classification of short peptides. Three different protein sequence embedding models are adopted as the initial protein feature representations, and the RNN (Recurrent Neural Network) model is used to further integrate the deep features of proteins, ultimately achieving the purpose of classifying a variety of short peptides.
 
 ## Data Source
-数据集搜集包括聚类挑选的负样本、原始论文的负样本，没啥标注数据来源的必要了....
+The relevant data were obtained from the papers and databases corresponding to the functional peptides. For more details, please see the Table S1 attached to the work.
 
 ## Usage
 
